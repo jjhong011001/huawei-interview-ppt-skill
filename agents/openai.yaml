@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为面试 PPT"
+  short_description: "根据岗位和真实经历制作可编辑的面试介绍 PPT"
+  default_prompt: "用 $huawei-interview-ppt 根据我的简历、项目材料和目标岗位制作面试 PPT，并写好逐页讲稿。"
